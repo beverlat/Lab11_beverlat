@@ -36,7 +36,7 @@ int main()
 	{
 		std::string inputLine;
 		game.PrintTowers();
-		cout << "Enter A Move! " << endl;
+		cout << "Enter A 3Move! " << endl;
 		getline(cin, inputLine);
 		if (inputLine == "-1")
 		{
