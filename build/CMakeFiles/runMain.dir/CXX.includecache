@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beverlat/Lab11_beverlat/StackQueue.h
+string
+-
+
+/home/beverlat/Lab11_beverlat/TowersOfHanoiGame.h
+StackQueue.h
+/home/beverlat/Lab11_beverlat/StackQueue.h
+
+/home/beverlat/Lab11_beverlat/main.cpp
+StackQueue.h
+/home/beverlat/Lab11_beverlat/StackQueue.h
+TowersOfHanoiGame.h
+/home/beverlat/Lab11_beverlat/TowersOfHanoiGame.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+

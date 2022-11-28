@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/runMain.dir/main.cpp.o  -o runMain  -Wl,-rpath,/home/beverlat/Lab11_beverlat/build libapplibrary.so libgame.so 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beverlat/Lab11_beverlat/StackQueue.cpp
+StackQueue.h
+/home/beverlat/Lab11_beverlat/StackQueue.h
+
+/home/beverlat/Lab11_beverlat/StackQueue.h
+string
+-
+

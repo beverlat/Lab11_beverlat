@@ -1,0 +1,5 @@
+/home/beverlat/Lab11_beverlat/build/CMakeFiles/rebuild_cache.dir
+/home/beverlat/Lab11_beverlat/build/CMakeFiles/edit_cache.dir
+/home/beverlat/Lab11_beverlat/build/CMakeFiles/runMain.dir
+/home/beverlat/Lab11_beverlat/build/CMakeFiles/game.dir
+/home/beverlat/Lab11_beverlat/build/CMakeFiles/applibrary.dir

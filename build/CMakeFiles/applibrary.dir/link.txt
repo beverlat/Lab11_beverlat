@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libapplibrary.so -o libapplibrary.so CMakeFiles/applibrary.dir/StackQueue.cpp.o 

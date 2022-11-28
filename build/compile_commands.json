@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/beverlat/Lab11_beverlat/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /home/beverlat/Lab11_beverlat/main.cpp",
+  "file": "/home/beverlat/Lab11_beverlat/main.cpp"
+},
+{
+  "directory": "/home/beverlat/Lab11_beverlat/build",
+  "command": "/usr/bin/g++  -Dgame_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/game.dir/TowersOfHanoiGame.cpp.o -c /home/beverlat/Lab11_beverlat/TowersOfHanoiGame.cpp",
+  "file": "/home/beverlat/Lab11_beverlat/TowersOfHanoiGame.cpp"
+},
+{
+  "directory": "/home/beverlat/Lab11_beverlat/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -std=c++17 -o CMakeFiles/applibrary.dir/StackQueue.cpp.o -c /home/beverlat/Lab11_beverlat/StackQueue.cpp",
+  "file": "/home/beverlat/Lab11_beverlat/StackQueue.cpp"
+}
+]
